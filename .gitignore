@@ -208,3 +208,9 @@ __marimo__/
 
 # LangSmith Studio
 **/.langgraph_api/
+
+# macOS metadata
+.DS_Store
+
+# Local env copy (user-created)
+.env.example
